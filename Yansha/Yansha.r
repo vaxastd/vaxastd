@@ -1,2 +1,0 @@
-message <-"Yansha"
-print(message)

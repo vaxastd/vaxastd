@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Yansha");
+    printf("Welcome to Vaxa Studio!\n");
 
     return 0;
 }

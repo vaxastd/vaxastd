@@ -2,5 +2,5 @@ package main
 import "fmt"
 
 func main() {
-  fmt.Println("Yansha")
+  fmt.Println("Welcome to Vaxa Studio!")
 }
